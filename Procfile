@@ -1,0 +1,1 @@
+forever start anonymous_bot.js
