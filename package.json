@@ -1,7 +1,7 @@
 {
-  "name": "botkit",
+  "name": "atticslackbot01",
   "version": "0.7.6",
-  "description": "Building blocks for Building Bots",
+  "description": "AtticLabslackbot",
   "main": "lib/Botkit.js",
   "types": "lib/Botkit.d.ts",
   "jest": {

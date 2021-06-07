@@ -1,1 +1,1 @@
-forever start anonymous_bot.js
+forever start main.js
