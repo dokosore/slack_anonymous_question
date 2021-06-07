@@ -1,1 +1,1 @@
-# slack_anonymous_question
+# AtticLab slack 質問システム
